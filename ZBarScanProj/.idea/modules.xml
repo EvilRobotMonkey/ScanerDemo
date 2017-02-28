@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ZBarLib/ZBarLib.iml" filepath="$PROJECT_DIR$/../ZBarLib/ZBarLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ZBarScanProj.iml" filepath="$PROJECT_DIR$/.idea/ZBarScanProj.iml" />
+    </modules>
+  </component>
+</project>
